@@ -27,6 +27,7 @@
 
 **BACKEND:**
    - Designed a RestAPI for handling authentication, validation and storing of ToDo information in NoSQL mongoDB
+   - the data is exchanged in **JSON** format
    - Designed the RestAPI by using **mongooseJS**, which helps the RestAPI to interact with MongoDB
    - Used **jsonwebtoken** library for security and authentication
    - Used **ExpressJS** for building web application
