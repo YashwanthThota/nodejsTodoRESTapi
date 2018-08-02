@@ -22,7 +22,7 @@
    - Used **ExpressJS** for building web application
    - Used **momentJS** for displaying the timestamp
    - Hosted this application in **Heroku cloud platform services**
-**LINK FOR FRONTEND CODE:**(https://github.com/YashwanthThota/nodejsTodoRESTapi)
+**LINK FOR FRONTEND CODE:**(https://github.com/YashwanthThota/nodejsTodoFrontend)
 
 **BACKEND:**
    - Designed a RestAPI for handling authentication, validation and storing of ToDo information in NoSQL mongoDB
